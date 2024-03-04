@@ -1,0 +1,14 @@
+c:\users\yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item Creator v1298 v1.vbproj.GenerateResource.Cache
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\bin\Release\Item Creator v1298.exe.config
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\bin\Release\Item Creator v1298.exe
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\bin\Release\Item Creator v1298.pdb
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\bin\Release\Item Creator v1298.xml
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item_Creator_v1298.Form1.resources
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item_Creator_v1298.Form2.resources
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item_Creator_v1298.Form3.resources
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item_Creator_v1298.Form4.resources
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item_Creator_v1298.Form5.resources
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item_Creator_v1298.Resources.resources
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item Creator v1298.exe
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item Creator v1298.xml
+C:\Users\Yoshi\documents\visual studio 2010\Projects\Item Creator v1298 v1\Item Creator v1298 v1\obj\x86\Release\Item Creator v1298.pdb
